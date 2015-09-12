@@ -10,7 +10,8 @@ require 'set'
 
 #configuration
 # logfile = "ATCSTestLog.txt"
-logfile = "AllATCSLog.txt"
+# logfile = "../testAllATCSLog.txt"
+logfile = ARGV.first
 
 p "parsing #{logfile}"
 

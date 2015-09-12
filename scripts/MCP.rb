@@ -65,14 +65,14 @@ IO.foreach(mcpFile) {|x|
 		puts "MCPStateCounty is #{current[:statecounty]}"
 	elsif (x["MCPLongitude"])
 		lg = x.split("=")[1].strip
-		degrees=dms_to_degrees("#{lg[0]}#{lg[1]}".to_f, "#{lg[2]}#{lg[3]}".to_f, "#{lg[4]}#{lg[5]}".to_f)
+		degrees=dms_to_degrees("#{lg[0]}#{lg[1]}#{lg[2]}".to_i, "#{lg[3]}#{lg[4]}".to_i, "#{lg[5]}#{lg[6]}".to_i)
 		current[:longitude] = degrees
 		# current[:longitude] = x.split("=")[1].strip
 		puts "MCPLongitude is #{current[:longitude]} str = #{lg}"
 	elsif (x["MCPLatitude"])
 		lat = x.split("=")[1].strip
-		degrees=dms_to_degrees("#{lat[0]}#{lat[1]}#{lat[2]}".to_f, "#{lat[3]}#{lat[4]}".to_f, "#{lat[5]}#{lat[6]}".to_f)
 		# current[:latitude] = x.split("=")[1].strip
+		degrees=dms_to_degrees("#{lat[0]}#{lat[1]}".to_i, "#{lat[2]}#{lat[3]}".to_i, "#{lat[4]}#{lat[5]}".to_i)
 		current[:latitude] = degrees
 		puts "MCPLatitude is #{current[:latitude]}   str = #{lat}"
 		$mcps.push(current)

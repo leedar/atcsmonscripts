@@ -1,0 +1,2630 @@
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:04:27
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=14 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,2EGK,1WGK,BWAK,AEAK,K45
+23 38 06 C7 37 68 00 1C 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A2 A2 A2 00 CE 02 
+02 12 8B 03 00 04 08 05 06 24 10    :...............$. 2F 7B                                     
+               /{
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:04:27 233806C73768001C00EA28A2A15A4378A2A43AA2A2A200CE0202128B03000408050624102F7B
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:04:28
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=35 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,2TK,1WGK,BWAK,BEAK,AWAK,AEAK,2WAK,2EAK,K45
+23 38 06 C7 37 68 00 46 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.F..(..ZCx.. 3A A2 A2 A2 00 F8 02 
+02 12 8B 03 00 04 08 05 22 3F 10    :.............."?. 3E CF                                     
+               >.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:04:28 233806C73768004600EA28A2A15A4378A2A43AA2A2A200F80202128B0300040805223F103ECF
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:04:32
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=87 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 AE 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 DE 02 
+02 12 8B 03 00 04 08 05 00 28 10    :...............(. E6 B7                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:04:32 233806C7376800AE00EA28A2A15A4378A2A43AA6A2A200DE0202128B0300040805002810E6B7
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:04:32
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=14 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,2EGK,1WGK,BWAK,AEAK,K45
+23 38 06 C7 37 68 00 1C 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A2 A2 A2 00 CE 02 
+02 12 8B 03 00 04 08 05 06 24 10    :...............$. 2F 7B                                     
+               /{
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:04:32 233806C73768001C00EA28A2A15A4378A2A43AA2A2A200CE0202128B03000408050624102F7B
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:04:33
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=33 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,2TK,BWAK,BEAK,AWAK,AEAK,2WAK,2EAK,K45
+23 38 06 C7 37 68 00 42 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.B..(..ZCx.. 3A A2 A2 A2 00 F4 02 
+02 12 8B 03 00 04 08 05 A0 3F 10    :...............?. 41 B1                                     
+               A.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:04:33 233806C73768004200EA28A2A15A4378A2A43AA2A2A200F40202128B0300040805A03F1041B1
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:04:33
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=78 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK,1OK
+23 38 06 C7 37 68 00 9C 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 C4 02 
+02 12 8B 03 00 04 08 01 22 00 00    :..............".. 4C 12                                     
+               L.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:04:33 233806C73768009C00EA28A2A15A4378A2A43A11A2A200C40202128B03000408012200004C12
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:04:34
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=87 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 AE 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 DE 02 
+02 12 8B 03 00 04 08 05 00 28 10    :...............(. E6 B7                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:04:34 233806C7376800AE00EA28A2A15A4378A2A43AA6A2A200DE0202128B0300040805002810E6B7
+Wayside MCP: 78020430160202 (Swanston)
+
+
+2015/09/12 12:04:34
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=114 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK
+23 38 06 C7 37 68 00 E4 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 16 A2 A2 00 3A 02 
+02 12 8B 03 00 04 08 05 04 20 00    :....:.......... . 09 EE                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:04:34 233806C7376800E400EA28A2A15A4378A2A43A16A2A2003A0202128B030004080504200009EE
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:04:47
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=79 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK,1OK
+23 38 06 C7 37 68 00 9E 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 C6 02 
+02 12 8B 03 00 04 08 01 22 00 00    :..............".. 65 E3                                     
+               e.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:04:47 233806C73768009E00EA28A2A15A4378A2A43A11A2A200C60202128B030004080122000065E3
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:05:09
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=48 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1EAK,1WGK,BEAK,AWAK,AEAK,K45
+23 38 06 C7 37 68 00 60 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.`..(..ZCx.. 3A A2 A2 A2 00 12 02 
+02 12 8B 03 00 04 08 05 42 1C 10    :..............B.. 02 2C                                     
+               .,
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:05:09 233806C73768006000EA28A2A15A4378A2A43AA2A2A200120202128B0300040805421C10022C
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:05:27
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=119 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 EE 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 E6 02 
+02 12 8B 03 00 04 08 05 06 3C 00    :1..............<. 1C C9                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:05:27 233806C7376800EE00EA28A2A15A4378A2A43A31A2A200E60202128B0300040805063C001CC9
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:06:28
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=120 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 F0 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 E8 02 
+02 12 8B 03 00 04 08 05 06 3C 00    :1..............<. 0E E5                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:28 233806C7376800F000EA28A2A15A4378A2A43A31A2A200E80202128B0300040805063C000EE5
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:06:29
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=14 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,2EGK,1WGK,BWAK,AEAK,K45
+23 38 06 C7 37 68 00 1C 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A2 A2 A2 00 CE 02 
+02 12 8B 03 00 04 08 05 06 24 10    :...............$. 2F 7B                                     
+               /{
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:29 233806C73768001C00EA28A2A15A4378A2A43AA2A2A200CE0202128B03000408050624102F7B
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:06:29
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=33 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,2TK,BWAK,BEAK,AWAK,AEAK,2WAK,2EAK,K45
+23 38 06 C7 37 68 00 42 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.B..(..ZCx.. 3A A2 A2 A2 00 F4 02 
+02 12 8B 03 00 04 08 05 A0 3F 10    :...............?. 41 B1                                     
+               A.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:29 233806C73768004200EA28A2A15A4378A2A43AA2A2A200F40202128B0300040805A03F1041B1
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:06:30
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=120 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 F0 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 E8 02 
+02 12 8B 03 00 04 08 05 06 3C 00    :1..............<. 0E E5                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:30 233806C7376800F000EA28A2A15A4378A2A43A31A2A200E80202128B0300040805063C000EE5
+Wayside MCP: 77215670360202 (Ferry)
+
+
+2015/09/12 12:06:32
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=6 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1RWK,2EAK,2TK,BEAK
+23 38 06 C7 37 68 00 0C 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 36 A2 A2 00 22 02 
+02 12 8B 03 00 04 08 06 50 04 00    z6...".........P.. 9C F9                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:32 233806C73768000C00EA2721A155677721567A36A2A200220202128B03000408065004009CF9
+Wayside MCP: 77215670330202 (Vista)
+
+
+2015/09/12 12:06:32
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=24 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BEGK,2EGK,K36,K34,K41
+23 38 06 C7 37 68 00 30 00 EA 27 21 A1 55 67 77 21 56    #8..7h.0..'!.Ugw!V 7A 33 A2 A2 00 F0 02 
+02 12 8B 03 00 04 08 05 0A 28 01    z3..............(. B0 2A                                     
+               .*
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:32 233806C73768003000EA2721A155677721567A33A2A200F00202128B03000408050A2801B02A
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:06:33
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=13 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,2EGK,1WGK,BWAK,AEAK,K45
+23 38 06 C7 37 68 00 1A 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A2 A2 A2 00 CC 02 
+02 12 8B 03 00 04 08 05 06 24 10    :...............$. F1 76                                     
+               .v
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:33 233806C73768001A00EA28A2A15A4378A2A43AA2A2A200CC0202128B0300040805062410F176
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:06:34
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=33 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,2TK,BWAK,BEAK,AWAK,AEAK,2WAK,2EAK,K45
+23 38 06 C7 37 68 00 42 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.B..(..ZCx.. 3A A2 A2 A2 00 F4 02 
+02 12 8B 03 00 04 08 05 A0 3F 10    :...............?. 41 B1                                     
+               A.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:34 233806C73768004200EA28A2A15A4378A2A43AA2A2A200F40202128B0300040805A03F1041B1
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:06:34
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=120 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 F0 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 E8 02 
+02 12 8B 03 00 04 08 05 06 3C 00    :1..............<. 0E E5                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:34 233806C7376800F000EA28A2A15A4378A2A43A31A2A200E80202128B0300040805063C000EE5
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:06:36
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=89 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 B2 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 E2 02 
+02 12 8B 03 00 04 08 05 00 28 10    :...............(. AD 85                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:36 233806C7376800B200EA28A2A15A4378A2A43AA6A2A200E20202128B0300040805002810AD85
+Wayside MCP: 77215670330202 (Vista)
+
+
+2015/09/12 12:06:37
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=23 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BEGK,K36,K34,K41
+23 38 06 C7 37 68 00 2E 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 33 A2 A2 00 EE 02 
+02 12 8B 03 00 04 08 05 08 28 01    z3..............(. CA E9                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:37 233806C73768002E00EA2721A155677721567A33A2A200EE0202128B0300040805082801CAE9
+Wayside MCP: 77215670330202 (Vista)
+
+
+2015/09/12 12:06:37
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=24 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BEGK,2EGK,K36,K34,K41
+23 38 06 C7 37 68 00 30 00 EA 27 21 A1 55 67 77 21 56    #8..7h.0..'!.Ugw!V 7A 33 A2 A2 00 F0 02 
+02 12 8B 03 00 04 08 05 0A 28 01    z3..............(. B0 2A                                     
+               .*
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:37 233806C73768003000EA2721A155677721567A33A2A200F00202128B03000408050A2801B02A
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:06:39
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=105 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,1WGK,AEAK,BEAK
+23 28 06 56 A2 68 00 D2 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 1A 02 
+02 12 8B 03 00 06 08 15 10 80 02    :%................ 00 00 23 BF                               
+               ..#.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:39 23280656A26800D200EA28A2A15A4378A2A43A25A2A2001A0202128B0300060815108002000023BF
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:06:51
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=53 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,BEAK,AWAK,K45
+23 38 06 C7 37 68 00 6A 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.j..(..ZCx.. 3A A2 A2 A2 00 1C 02 
+02 12 8B 03 00 04 08 05 80 18 10    :................. 4A CF                                     
+               J.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:51 233806C73768006A00EA28A2A15A4378A2A43AA2A2A2001C0202128B03000408058018104ACF
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:06:53
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=81 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK,1OK
+23 38 06 C7 37 68 00 A2 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 CA 02 
+02 12 8B 03 00 04 08 01 22 00 00    :..............".. 91 E1                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:53 233806C7376800A200EA28A2A15A4378A2A43A11A2A200CA0202128B030004080122000091E1
+Wayside MCP: 78020430210202 (W Elvas)
+
+
+2015/09/12 12:06:54
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=12 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3RWK,2NWK,1NWK,4OK,2TK,BWAK,K66,K65
+23 28 06 56 A2 68 00 18 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 21 A2 A2 00 DA 02 
+02 12 8B 03 00 06 08 25 00 22 08    :!............%.". 00 30 3E 2D                               
+               .0>-
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:54 23280656A268001800EA28A2A15A4378A2A43A21A2A200DA0202128B030006082500220800303E2D
+Wayside MCP: 78020430210202 (W Elvas)
+
+
+2015/09/12 12:06:56
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=13 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3RWK,2NWK,1NWK,4OK,BWAK,K66,K65
+23 28 06 56 A2 68 00 1A 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 21 A2 A2 00 DC 02 
+02 12 8B 03 00 06 08 25 00 20 08    :!............%. . 00 30 DC 2E                               
+               .0..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:06:56 23280656A268001A00EA28A2A15A4378A2A43A21A2A200DC0202128B03000608250020080030DC2E
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:07:08
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=9 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1WGK,1RWK,AWAK,AEAK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 12 A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 26 A2 A2 00 12 02 
+02 12 8B 03 00 06 08 81 00 60 01    :&..............`. 01 10 0D BC                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:08 23280656A2680012A6EA28A2A15A4378A2A43A26A2A200120202128B030006088100600101100DBC
+Genisys/SCS-128 MCP: 8802959280019 (Gold Run 2)
+
+
+2015/09/12 12:07:09
+UP Datagram (1) Inbound to Ground Network (129)
+Frame=6 GFI=0 Group=0 SSeq=0 Rseq=0 Beacon=0 Vital=0 UsrData=2
+To Dispatch: 2802959280000
+Number=0.0.129 SCS-128_Indication
+Mnemonics=2EGK,BWAK
+93 81 02 04 01 1B                                        ......
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:09 7338303239353932383093810204011B
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:07:13
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=10 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1WGK,1RWK,2EGK,AWAK,AEAK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 14 A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 26 A2 A2 00 14 02 
+02 12 8B 03 00 06 08 81 01 60 01    :&..............`. 01 10 3E 81                               
+               ..>.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:13 23280656A2680014A6EA28A2A15A4378A2A43A26A2A200140202128B030006088101600101103E81
+Wayside MCP: 77215670360202 (Ferry)
+
+
+2015/09/12 12:07:14
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=8 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1RWK,2EAK,BEAK
+23 38 06 C7 37 68 00 10 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 36 A2 A2 00 26 02 
+02 12 8B 03 00 04 08 06 40 04 00    z6...&.........@.. 5A 8C                                     
+               Z.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:14 233806C73768001000EA2721A155677721567A36A2A200260202128B03000408064004005A8C
+Wayside MCP: 77215670330202 (Vista)
+
+
+2015/09/12 12:07:18
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=25 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BEGK,2EGK,K36,K34,K41
+23 38 06 C7 37 68 00 32 00 EA 27 21 A1 55 67 77 21 56    #8..7h.2..'!.Ugw!V 7A 33 A2 A2 00 F2 02 
+02 12 8B 03 00 04 08 05 0A 28 01    z3..............(. 99 DB                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:18 233806C73768003200EA2721A155677721567A33A2A200F20202128B03000408050A280199DB
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:07:24
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=106 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,1WGK,AEAK,BEAK
+23 28 06 56 A2 68 00 D4 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 1C 02 
+02 12 8B 03 00 06 08 15 30 80 02    :%.............0.. 00 00 C5 E9                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:24 23280656A26800D400EA28A2A15A4378A2A43A25A2A2001C0202128B03000608153080020000C5E9
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:07:30
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=121 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 F2 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 EA 02 
+02 12 8B 03 00 04 08 05 06 3C 00    :1..............<. 27 14                                     
+               '.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:30 233806C7376800F200EA28A2A15A4378A2A43A31A2A200EA0202128B0300040805063C002714
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:07:33
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=90 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 B4 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 E4 02 
+02 12 8B 03 00 04 08 05 00 28 10    :...............(. C7 9E                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:33 233806C7376800B400EA28A2A15A4378A2A43AA6A2A200E40202128B0300040805002810C79E
+Wayside MCP: 78020430160202 (Swanston)
+
+
+2015/09/12 12:07:36
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=117 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK
+23 38 06 C7 37 68 00 EA 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 16 A2 A2 00 40 02 
+02 12 8B 03 00 04 08 05 04 20 00    :....@.......... . 61 B3                                     
+               a.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:36 233806C7376800EA00EA28A2A15A4378A2A43A16A2A200400202128B030004080504200061B3
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:07:52
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=54 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,BEAK,AWAK,K45
+23 38 06 C7 37 68 00 6C 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.l..(..ZCx.. 3A A2 A2 A2 00 1E 02 
+02 12 8B 03 00 04 08 05 80 18 10    :................. 94 C2                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:52 233806C73768006C00EA28A2A15A4378A2A43AA2A2A2001E0202128B030004080580181094C2
+Wayside MCP: 78020430210202 (W Elvas)
+
+
+2015/09/12 12:07:52
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=14 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3RWK,2NWK,1NWK,4OK,BWAK,K66,K65
+23 28 06 56 A2 68 00 1C 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 21 A2 A2 00 DE 02 
+02 12 8B 03 00 06 08 25 00 20 08    :!............%. . 00 30 12 30                               
+               .0.0
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:52 23280656A268001C00EA28A2A15A4378A2A43A21A2A200DE0202128B030006082500200800301230
+Wayside MCP: 77215670330202 (Vista)
+
+
+2015/09/12 12:07:53
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=26 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2TK,2NWK,1NWK,BEGK,K36,K34,K41
+23 38 06 C7 37 68 00 34 00 EA 27 21 A1 55 67 77 21 56    #8..7h.4..'!.Ugw!V 7A 33 A2 A2 00 F4 02 
+02 12 8B 03 00 04 08 25 08 28 01    z3............%.(. 18 FA                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:53 233806C73768003400EA2721A155677721567A33A2A200F40202128B030004082508280118FA
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:07:56
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=82 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK,1OK
+23 38 06 C7 37 68 00 A4 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 CC 02 
+02 12 8B 03 00 04 08 01 22 00 00    :..............".. FB FA                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:07:56 233806C7376800A400EA28A2A15A4378A2A43A11A2A200CC0202128B0300040801220000FBFA
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:08:15
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=11 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1WGK,1RWK,2EGK,AWAK,AEAK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 16 A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 26 A2 A2 00 16 02 
+02 12 8B 03 00 06 08 81 01 60 01    :&..............`. 01 10 13 93                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:08:15 23280656A2680016A6EA28A2A15A4378A2A43A26A2A200160202128B030006088101600101101393
+Wayside MCP: 77215670360202 (Ferry)
+
+
+2015/09/12 12:08:18
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=10 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1RWK,BEAK
+23 38 06 C7 37 68 00 14 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 36 A2 A2 00 2A 02 
+02 12 8B 03 00 04 08 06 00 04 00    z6...*............ 07 4D                                     
+               .M
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:08:18 233806C73768001400EA2721A155677721567A36A2A2002A0202128B0300040806000400074D
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:08:25
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=107 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,1WGK,AEAK,BEAK
+23 28 06 56 A2 68 00 D6 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 1E 02 
+02 12 8B 03 00 06 08 15 30 80 02    :%.............0.. 00 00 E8 FB                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:08:25 23280656A26800D600EA28A2A15A4378A2A43A25A2A2001E0202128B03000608153080020000E8FB
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:08:31
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=122 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 F4 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 EC 02 
+02 12 8B 03 00 04 08 05 06 3C 00    :1..............<. 4D 0F                                     
+               M.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:08:31 233806C7376800F400EA28A2A15A4378A2A43A31A2A200EC0202128B0300040805063C004D0F
+Wayside MCP: 78020430210202 (W Elvas)
+
+
+2015/09/12 12:08:33
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=15 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3RWK,2NWK,1NWK,BWAK,K66,K65
+23 28 06 56 A2 68 00 1E 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 21 A2 A2 00 E0 02 
+02 12 8B 03 00 06 08 25 00 00 08    :!............%... 00 30 9A 3B                               
+               .0.;
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:08:33 23280656A268001E00EA28A2A15A4378A2A43A21A2A200E00202128B030006082500000800309A3B
+Wayside MCP: 78020430160202 (Swanston)
+
+
+2015/09/12 12:08:42
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=118 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK
+23 38 06 C7 37 68 00 EC 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 16 A2 A2 00 42 02 
+02 12 8B 03 00 04 08 05 04 20 00    :....B.......... . BF BE                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:08:42 233806C7376800EC00EA28A2A15A4378A2A43A16A2A200420202128B0300040805042000BFBE
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:08:54
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=92 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 B8 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 E8 02 
+02 12 8B 03 00 04 08 09 00 28 10    :...............(. 27 3F                                     
+               '?
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:08:54 233806C7376800B800EA28A2A15A4378A2A43AA6A2A200E80202128B0300040809002810273F
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:08:56
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=55 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,BEAK,AWAK,K45
+23 38 06 C7 37 68 00 6E 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.n..(..ZCx.. 3A A2 A2 A2 00 20 02 
+02 12 8B 03 00 04 08 05 80 18 10    :.... ............ 11 E7                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:08:56 233806C73768006E00EA28A2A15A4378A2A43AA2A2A200200202128B030004080580181011E7
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:09:01
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=93 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,1EGK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 BA 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 EA 02 
+02 12 8B 03 00 04 08 09 01 28 10    :...............(. D2 94                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:09:01 233806C7376800BA00EA28A2A15A4378A2A43AA6A2A200EA0202128B0300040809012810D294
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:09:18
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=12 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1WGK,1RWK,2EGK,AWAK,AEAK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 18 A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 26 A2 A2 00 18 02 
+02 12 8B 03 00 06 08 81 01 60 01    :&..............`. 01 10 D0 ED                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:09:18 23280656A2680018A6EA28A2A15A4378A2A43A26A2A200180202128B03000608810160010110D0ED
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:09:21
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=84 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK
+23 38 06 C7 37 68 00 A8 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 D0 02 
+02 12 8B 03 00 04 08 01 20 00 00    :.............. .. 47 23                                     
+               G#
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:09:21 233806C7376800A800EA28A2A15A4378A2A43A11A2A200D00202128B03000408012000004723
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:09:28
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=108 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,1WGK,AEAK,BEAK
+23 28 06 56 A2 68 00 D8 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 20 02 
+02 12 8B 03 00 06 08 15 30 80 02    :%... .........0.. 00 00 16 6A                               
+               ...j
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:09:28 23280656A26800D800EA28A2A15A4378A2A43A25A2A200200202128B03000608153080020000166A
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:09:36
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=123 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 F6 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 EE 02 
+02 12 8B 03 00 04 08 05 06 3C 00    :1..............<. 64 FE                                     
+               d.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:09:36 233806C7376800F600EA28A2A15A4378A2A43A31A2A200EE0202128B0300040805063C0064FE
+Wayside MCP: 78020430160202 (Swanston)
+
+
+2015/09/12 12:09:44
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=119 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK
+23 38 06 C7 37 68 00 EE 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 16 A2 A2 00 44 02 
+02 12 8B 03 00 04 08 05 04 20 00    :....D.......... . 22 59                                     
+               "Y
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:09:44 233806C7376800EE00EA28A2A15A4378A2A43A16A2A200440202128B03000408050420002259
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:09:57
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=56 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,BEAK,AWAK,K45
+23 38 06 C7 37 68 00 70 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.p..(..ZCx.. 3A A2 A2 A2 00 22 02 
+02 12 8B 03 00 04 08 05 80 18 10    :...."............ DF F0                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:09:57 233806C73768007000EA28A2A15A4378A2A43AA2A2A200220202128B0300040805801810DFF0
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:10:03
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=94 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,1EGK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 BC 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 EC 02 
+02 12 8B 03 00 04 08 09 01 28 10    :...............(. B8 8F                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:10:03 233806C7376800BC00EA28A2A15A4378A2A43AA6A2A200EC0202128B0300040809012810B88F
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:10:20
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=13 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1WGK,1RWK,2EGK,AWAK,AEAK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 1A A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 26 A2 A2 00 1A 02 
+02 12 8B 03 00 06 08 81 01 60 01    :&..............`. 01 10 FD FF                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:10:20 23280656A268001AA6EA28A2A15A4378A2A43A26A2A2001A0202128B03000608810160010110FDFF
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:10:27
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=85 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK
+23 38 06 C7 37 68 00 AA 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 D2 02 
+02 12 8B 03 00 04 08 01 20 00 00    :.............. .. 6E D2                                     
+               n.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:10:27 233806C7376800AA00EA28A2A15A4378A2A43A11A2A200D20202128B03000408012000006ED2
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:10:29
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=109 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,1WGK,AEAK,BEAK
+23 28 06 56 A2 68 00 DA 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 22 02 
+02 12 8B 03 00 06 08 15 30 80 02    :%...".........0.. 00 00 3B 78                               
+               ..;x
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:10:29 23280656A26800DA00EA28A2A15A4378A2A43A25A2A200220202128B030006081530800200003B78
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:11:30
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=14 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,2EGK,1WGK,BWAK,AEAK,K45
+23 38 06 C7 37 68 00 1C 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A2 A2 A2 00 CE 02 
+02 12 8B 03 00 04 08 05 06 24 10    :...............$. 2F 7B                                     
+               /{
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:30 233806C73768001C00EA28A2A15A4378A2A43AA2A2A200CE0202128B03000408050624102F7B
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:11:31
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=33 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,2TK,BWAK,BEAK,AWAK,AEAK,2WAK,2EAK,K45
+23 38 06 C7 37 68 00 42 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.B..(..ZCx.. 3A A2 A2 A2 00 F4 02 
+02 12 8B 03 00 04 08 05 A0 3F 10    :...............?. 41 B1                                     
+               A.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:31 233806C73768004200EA28A2A15A4378A2A43AA2A2A200F40202128B0300040805A03F1041B1
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:11:33
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=86 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK
+23 38 06 C7 37 68 00 AC 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 D4 02 
+02 12 8B 03 00 04 08 01 20 00 00    :.............. .. 04 C9                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:33 233806C7376800AC00EA28A2A15A4378A2A43A11A2A200D40202128B030004080120000004C9
+Genisys/SCS-128 MCP: 8802959280019 (Gold Run 2)
+
+
+2015/09/12 12:11:33
+UP Datagram (1) Inbound to Ground Network (129)
+Frame=6 GFI=0 Group=0 SSeq=0 Rseq=0 Beacon=0 Vital=0 UsrData=2
+To Dispatch: 2802959280000
+Number=0.0.129 SCS-128_Indication
+Mnemonics=2EGK,BWAK
+93 81 02 04 01 1B                                        ......
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:33 7338303239353932383093810204011B
+Wayside MCP: 77215670340202 (Park)
+
+
+2015/09/12 12:11:34
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=108 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=EGK,NWK,BWAK,3WAK,2WAK,CWAK
+23 38 06 C7 37 68 00 D8 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 34 A2 A2 00 96 02 
+02 12 8B 03 00 04 08 41 54 01 00    z4............AT.. 33 7D                                     
+               3}
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:34 233806C7376800D800EA2721A155677721567A34A2A200960202128B0300040841540100337D
+Wayside MCP: 77215670250202 (Marsh)
+
+
+2015/09/12 12:11:34
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=14 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK,AWAK
+23 38 06 C7 37 68 00 1C 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 25 A2 A2 00 DE 02 
+02 12 8B 03 00 04 08 05 04 28 00    z%..............(. 00 14                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:34 233806C73768001C00EA2721A155677721567A25A2A200DE0202128B03000408050428000014
+Wayside MCP: 77215670340202 (Park)
+
+
+2015/09/12 12:11:34
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=110 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=NWK,BWAK,BEAK,3WAK,2WAK,2OK,TK,CWAK
+23 38 06 C7 37 68 00 DC 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 34 A2 A2 00 9A 02 
+02 12 8B 03 00 04 08 01 77 01 00    z4.............w.. F0 40                                     
+               .@
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:34 233806C7376800DC00EA2721A155677721567A34A2A2009A0202128B0300040801770100F040
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:11:35
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=14 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,2EGK,1WGK,BWAK,AEAK,K45
+23 38 06 C7 37 68 00 1C 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A2 A2 A2 00 CE 02 
+02 12 8B 03 00 04 08 05 06 24 10    :...............$. 2F 7B                                     
+               /{
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:35 233806C73768001C00EA28A2A15A4378A2A43AA2A2A200CE0202128B03000408050624102F7B
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:11:35
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=36 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,2TK,1WGK,BWAK,BEAK,AWAK,AEAK,2WAK,2EAK,K45
+23 38 06 C7 37 68 00 48 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.H..(..ZCx.. 3A A2 A2 A2 00 FA 02 
+02 12 8B 03 00 04 08 05 22 3F 10    :.............."?. 1F 33                                     
+               .3
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:35 233806C73768004800EA28A2A15A4378A2A43AA2A2A200FA0202128B0300040805223F101F33
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:11:37
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=16 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1RWK,1EAK,1TK,2EGK,AWAK,AEAK,1OK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 20 A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h. ..(..ZCx.. 3A 26 A2 A2 00 20 02 
+02 12 8B 03 00 06 08 01 91 61 01    :&... ..........a. 01 10 C1 39                               
+               ...9
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:37 23280656A2680020A6EA28A2A15A4378A2A43A26A2A200200202128B03000608019161010110C139
+Wayside MCP: 77215670340202 (Park)
+
+
+2015/09/12 12:11:38
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=108 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=EGK,NWK,BWAK,3WAK,2WAK,CWAK
+23 38 06 C7 37 68 00 D8 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 34 A2 A2 00 96 02 
+02 12 8B 03 00 04 08 41 54 01 00    z4............AT.. 33 7D                                     
+               3}
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:38 233806C7376800D800EA2721A155677721567A34A2A200960202128B0300040841540100337D
+Wayside MCP: 77215670340202 (Park)
+
+
+2015/09/12 12:11:39
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=109 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=NWK,BWAK,3WAK,2WAK,TK,CWAK
+23 38 06 C7 37 68 00 DA 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 34 A2 A2 00 98 02 
+02 12 8B 03 00 04 08 01 55 01 00    z4.............U.. AD FB                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:39 233806C7376800DA00EA2721A155677721567A34A2A200980202128B0300040801550100ADFB
+Wayside MCP: 77215670340202 (Park)
+
+
+2015/09/12 12:11:39
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=110 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=NWK,BWAK,BEAK,3WAK,2WAK,2OK,TK,CWAK
+23 38 06 C7 37 68 00 DC 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 34 A2 A2 00 9A 02 
+02 12 8B 03 00 04 08 01 77 01 00    z4.............w.. F0 40                                     
+               .@
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:39 233806C7376800DC00EA2721A155677721567A34A2A2009A0202128B0300040801770100F040
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:11:42
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=58 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WGK,BEAK,AWAK,K45
+23 38 06 C7 37 68 00 74 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.t..(..ZCx.. 3A A2 A2 A2 00 26 02 
+02 12 8B 03 00 04 08 05 02 18 10    :....&............ C8 A3                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:42 233806C73768007400EA28A2A15A4378A2A43AA2A2A200260202128B0300040805021810C8A3
+Wayside MCP: 77215670340202 (Park)
+
+
+2015/09/12 12:11:43
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=111 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=NWK,BWAK,BEAK,3WAK,2OK,TK,CWAK
+23 38 06 C7 37 68 00 DE 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 34 A2 A2 00 9C 02 
+02 12 8B 03 00 04 08 01 73 01 00    z4.............s.. 0C C4                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:43 233806C7376800DE00EA2721A155677721567A34A2A2009C0202128B03000408017301000CC4
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:11:44
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=110 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,1WGK,AEAK,BEAK
+23 28 06 56 A2 68 00 DC 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 24 02 
+02 12 8B 03 00 06 08 15 30 80 02    :%...$.........0.. 00 00 4C 4E                               
+               ..LN
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:44 23280656A26800DC00EA28A2A15A4378A2A43A25A2A200240202128B030006081530800200004C4E
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:11:46
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=111 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,1WGK,AEAK,1OK,BEAK
+23 28 06 56 A2 68 00 DE 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 26 02 
+02 12 8B 03 00 06 08 15 30 84 02    :%...&.........0.. 00 00 8D 2E                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:46 23280656A26800DE00EA28A2A15A4378A2A43A25A2A200260202128B030006081530840200008D2E
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:11:50
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=18 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1RWK,1TK,2EGK,AWAK,1OK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 24 A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h.$..(..ZCx.. 3A 26 A2 A2 00 24 02 
+02 12 8B 03 00 06 08 01 11 41 01    :&...$..........A. 01 10 9D 18                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:50 23280656A2680024A6EA28A2A15A4378A2A43A26A2A200240202128B030006080111410101109D18
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:11:56
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=19 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1RWK,2EGK,AWAK,1OK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 26 A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h.&..(..ZCx.. 3A 26 A2 A2 00 26 02 
+02 12 8B 03 00 06 08 01 01 41 01    :&...&..........A. 01 10 F0 BE                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:11:56 23280656A2680026A6EA28A2A15A4378A2A43A26A2A200260202128B03000608010141010110F0BE
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:12:17
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=96 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,1EGK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 C0 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 F0 02 
+02 12 8B 03 00 04 08 09 01 28 10    :...............(. 13 60                                     
+               .`
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:12:17 233806C7376800C000EA28A2A15A4378A2A43AA6A2A200F00202128B03000408090128101360
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:12:29
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=97 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,1WAK,1EGK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 C2 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 F2 02 
+02 12 8B 03 00 04 08 09 81 28 10    :...............(. D6 9D                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:12:29 233806C7376800C200EA28A2A15A4378A2A43AA6A2A200F20202128B0300040809812810D69D
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:12:31
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=87 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK
+23 38 06 C7 37 68 00 AE 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 D6 02 
+02 12 8B 03 00 04 08 01 20 00 00    :.............. .. 2D 38                                     
+               -8
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:12:31 233806C7376800AE00EA28A2A15A4378A2A43A11A2A200D60202128B03000408012000002D38
+Wayside MCP: 77215670250202 (Marsh)
+
+
+2015/09/12 12:12:39
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=16 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK,AWAK,2OK
+23 38 06 C7 37 68 00 20 00 EA 27 21 A1 55 67 77 21 56    #8..7h. ..'!.Ugw!V 7A 25 A2 A2 00 E2 02 
+02 12 8B 03 00 04 08 05 04 2A 00    z%..............*. 34 CA                                     
+               4.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:12:39 233806C73768002000EA2721A155677721567A25A2A200E20202128B0300040805042A0034CA
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:12:40
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=126 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 FC 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 F4 02 
+02 12 8B 03 00 04 08 05 06 3C 00    :1..............<. 0A 89                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:12:40 233806C7376800FC00EA28A2A15A4378A2A43A31A2A200F40202128B0300040805063C000A89
+Wayside MCP: 77215670340202 (Park)
+
+
+2015/09/12 12:12:47
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=113 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=NWK,BEAK,3WAK,2OK,CWAK
+23 38 06 C7 37 68 00 E2 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 34 A2 A2 00 A0 02 
+02 12 8B 03 00 04 08 01 32 01 00    z4.............2.. 22 75                                     
+               "u
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:12:47 233806C7376800E200EA2721A155677721567A34A2A200A00202128B03000408013201002275
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:12:49
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=112 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,1WGK,AEAK,1OK,BEAK
+23 28 06 56 A2 68 00 E0 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 28 02 
+02 12 8B 03 00 06 08 15 30 84 02    :%...(.........0.. 00 00 DA 04                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:12:49 23280656A26800E000EA28A2A15A4378A2A43A25A2A200280202128B03000608153084020000DA04
+Wayside MCP: 78020430160202 (Swanston)
+
+
+2015/09/12 12:12:50
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=122 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK
+23 38 06 C7 37 68 00 F4 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 16 A2 A2 00 4A 02 
+02 12 8B 03 00 04 08 05 04 20 00    :....J.......... . C7 89                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:12:50 233806C7376800F400EA28A2A15A4378A2A43A16A2A2004A0202128B0300040805042000C789
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:12:52
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=113 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,AEAK,1OK,1TK,BEAK
+23 28 06 56 A2 68 00 E2 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 2A 02 
+02 12 8B 03 00 06 08 15 20 85 02    :%...*......... .. 00 00 0C BE                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:12:52 23280656A26800E200EA28A2A15A4378A2A43A25A2A2002A0202128B030006081520850200000CBE
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:12:56
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=20 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1RWK,2EGK,AWAK,1OK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 28 A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h.(..(..ZCx.. 3A 26 A2 A2 00 28 02 
+02 12 8B 03 00 06 08 01 01 41 01    :&...(..........A. 01 10 33 C0                               
+               ..3.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:12:56 23280656A2680028A6EA28A2A15A4378A2A43A26A2A200280202128B0300060801014101011033C0
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:13:13
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=114 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,AEAK,1TK,BEAK
+23 28 06 56 A2 68 00 E4 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 2C 02 
+02 12 8B 03 00 06 08 15 20 81 02    :%...,......... .. 00 00 97 FA                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:13:13 23280656A26800E400EA28A2A15A4378A2A43A25A2A2002C0202128B0300060815208102000097FA
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:13:24
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=115 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,AEAK,3OK,1TK,BEAK,AWAK
+23 28 06 56 A2 68 00 E6 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 2E 02 
+02 12 8B 03 00 06 08 15 20 89 03    :%............. .. 00 00 BE 57                               
+               ...W
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:13:24 23280656A26800E600EA28A2A15A4378A2A43A25A2A2002E0202128B03000608152089030000BE57
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:13:27
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=21 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1RWK,2EGK,AWAK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 2A A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h.*..(..ZCx.. 3A 26 A2 A2 00 2A 02 
+02 12 8B 03 00 06 08 01 01 40 01    :&...*..........@. 01 10 A5 CE                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:13:27 23280656A268002AA6EA28A2A15A4378A2A43A26A2A2002A0202128B03000608010140010110A5CE
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:13:31
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=98 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,1WAK,1EGK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 C4 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 F4 02 
+02 12 8B 03 00 04 08 09 81 28 10    :...............(. BC 86                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:13:31 233806C7376800C400EA28A2A15A4378A2A43AA6A2A200F40202128B0300040809812810BC86
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:13:33
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=88 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK
+23 38 06 C7 37 68 00 B0 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 D8 02 
+02 12 8B 03 00 04 08 01 20 00 00    :.............. .. 3F 14                                     
+               ?.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:13:33 233806C7376800B000EA28A2A15A4378A2A43A11A2A200D80202128B03000408012000003F14
+Wayside MCP: 77215670250202 (Marsh)
+
+
+2015/09/12 12:13:40
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=17 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK,AWAK,2OK
+23 38 06 C7 37 68 00 22 00 EA 27 21 A1 55 67 77 21 56    #8..7h."..'!.Ugw!V 7A 25 A2 A2 00 E4 02 
+02 12 8B 03 00 04 08 05 04 2A 00    z%..............*. A9 2D                                     
+               .-
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:13:40 233806C73768002200EA2721A155677721567A25A2A200E40202128B0300040805042A00A92D
+Wayside MCP: 77215670340202 (Park)
+
+
+2015/09/12 12:13:50
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=114 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=NWK,BEAK,3WAK,2OK,CWAK
+23 38 06 C7 37 68 00 E4 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 34 A2 A2 00 A2 02 
+02 12 8B 03 00 04 08 01 32 01 00    z4.............2.. FC 78                                     
+               .x
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:13:50 233806C7376800E400EA2721A155677721567A34A2A200A20202128B0300040801320100FC78
+Wayside MCP: 78020430160202 (Swanston)
+
+
+2015/09/12 12:13:52
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=123 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK
+23 38 06 C7 37 68 00 F6 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 16 A2 A2 00 4C 02 
+02 12 8B 03 00 04 08 05 04 20 00    :....L.......... . 5A 6E                                     
+               Zn
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:13:52 233806C7376800F600EA28A2A15A4378A2A43A16A2A2004C0202128B03000408050420005A6E
+Wayside MCP: 77215670250202 (Marsh)
+
+
+2015/09/12 12:13:57
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=18 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2TK,BWAK,AWAK,2OK
+23 38 06 C7 37 68 00 24 00 EA 27 21 A1 55 67 77 21 56    #8..7h.$..'!.Ugw!V 7A 25 A2 A2 00 E6 02 
+02 12 8B 03 00 04 08 05 20 2A 00    z%............. *. 2D 40                                     
+               -@
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:13:57 233806C73768002400EA2721A155677721567A25A2A200E60202128B0300040805202A002D40
+Wayside MCP: 77215670250202 (Marsh)
+
+
+2015/09/12 12:14:11
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=19 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2TK,BWAK,AWAK
+23 38 06 C7 37 68 00 26 00 EA 27 21 A1 55 67 77 21 56    #8..7h.&..'!.Ugw!V 7A 25 A2 A2 00 E8 02 
+02 12 8B 03 00 04 08 05 20 28 00    z%............. (. 68 B9                                     
+               h.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:11 233806C73768002600EA2721A155677721567A25A2A200E80202128B030004080520280068B9
+Wayside MCP: 77215670250202 (Marsh)
+
+
+2015/09/12 12:14:16
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=21 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2TK,BEAK,AWAK,2EAK
+23 38 06 C7 37 68 00 2A 00 EA 27 21 A1 55 67 77 21 56    #8..7h.*..'!.Ugw!V 7A 25 A2 A2 00 EC 02 
+02 12 8B 03 00 04 08 05 20 19 00    z%............. .. AE 0D                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:16 233806C73768002A00EA2721A155677721567A25A2A200EC0202128B0300040805201900AE0D
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:14:26
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=22 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1RWK,2EGK,AWAK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 2C A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h.,..(..ZCx.. 3A 26 A2 A2 00 2C 02 
+02 12 8B 03 00 06 08 01 01 40 01    :&...,..........@. 01 10 D2 F8                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:26 23280656A268002CA6EA28A2A15A4378A2A43A26A2A2002C0202128B03000608010140010110D2F8
+Wayside MCP: 77215670250202 (Marsh)
+
+
+2015/09/12 12:14:27
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=22 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BEAK,AWAK,2EAK
+23 38 06 C7 37 68 00 2C 00 EA 27 21 A1 55 67 77 21 56    #8..7h.,..'!.Ugw!V 7A 25 A2 A2 00 EE 02 
+02 12 8B 03 00 04 08 05 00 19 00    z%................ 4B 03                                     
+               K.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:27 233806C73768002C00EA2721A155677721567A25A2A200EE0202128B03000408050019004B03
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:14:31
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=99 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,1WAK,1EGK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 C6 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 F6 02 
+02 12 8B 03 00 04 08 09 81 28 10    :...............(. 95 77                                     
+               .w
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:31 233806C7376800C600EA28A2A15A4378A2A43AA6A2A200F60202128B03000408098128109577
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:14:33
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=89 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK
+23 38 06 C7 37 68 00 B2 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 DA 02 
+02 12 8B 03 00 04 08 01 20 00 00    :.............. .. 16 E5                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:33 233806C7376800B200EA28A2A15A4378A2A43A11A2A200DA0202128B030004080120000016E5
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:14:35
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=100 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,1WAK,1TK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 C8 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 F8 02 
+02 12 8B 03 00 04 08 09 90 28 10    :...............(. 21 6F                                     
+               !o
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:35 233806C7376800C800EA28A2A15A4378A2A43AA6A2A200F80202128B0300040809902810216F
+Wayside MCP: 77215670340202 (Park)
+
+
+2015/09/12 12:14:38
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=115 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=NWK,BEAK,3WAK,CWAK
+23 38 06 C7 37 68 00 E6 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 34 A2 A2 00 A4 02 
+02 12 8B 03 00 04 08 01 30 01 00    z4.............0.. D9 2A                                     
+               .*
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:38 233806C7376800E600EA2721A155677721567A34A2A200A40202128B0300040801300100D92A
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:14:43
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=0 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 00 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 F8 02 
+02 12 8B 03 00 04 08 05 06 3C 00    :1..............<. 7E 5B                                     
+               ~[
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:43 233806C73768000000EA28A2A15A4378A2A43A31A2A200F80202128B0300040805063C007E5B
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:14:52
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=117 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,AEAK,3OK,BEAK,AWAK
+23 28 06 56 A2 68 00 EA 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 32 02 
+02 12 8B 03 00 06 08 15 20 88 03    :%...2......... .. 00 00 0F 85                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:52 23280656A26800EA00EA28A2A15A4378A2A43A25A2A200320202128B030006081520880300000F85
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:14:52
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=101 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,1WAK,2TK,1TK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 CA 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 FA 02 
+02 12 8B 03 00 04 08 09 B0 28 10    :...............(. 33 9D                                     
+               3.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:52 233806C7376800CA00EA28A2A15A4378A2A43AA6A2A200FA0202128B0300040809B02810339D
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:14:54
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=118 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,AEAK,BEAK,AWAK
+23 28 06 56 A2 68 00 EC 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 34 02 
+02 12 8B 03 00 06 08 15 20 80 03    :%...4......... .. 00 00 A0 56                               
+               ...V
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:14:54 23280656A26800EC00EA28A2A15A4378A2A43A25A2A200340202128B03000608152080030000A056
+Wayside MCP: 78020430160202 (Swanston)
+
+
+2015/09/12 12:15:00
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=124 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK
+23 38 06 C7 37 68 00 F8 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 16 A2 A2 00 4E 02 
+02 12 8B 03 00 04 08 05 04 20 00    :....N.......... . 7B 92                                     
+               {.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:15:00 233806C7376800F800EA28A2A15A4378A2A43A16A2A2004E0202128B03000408050420007B92
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:15:05
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=103 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,2TK,1TK,BWAK,BEAK,AWAK,2EAK,K45
+23 38 06 C7 37 68 00 CE 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 FE 02 
+02 12 8B 03 00 04 08 09 30 39 10    :..............09. D5 F7                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:15:05 233806C7376800CE00EA28A2A15A4378A2A43AA6A2A200FE0202128B0300040809303910D5F7
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:15:06
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=119 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,AEAK,BEAK
+23 28 06 56 A2 68 00 EE 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 36 02 
+02 12 8B 03 00 06 08 15 20 80 02    :%...6......... .. 00 00 51 1E                               
+               ..Q.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:15:06 23280656A26800EE00EA28A2A15A4378A2A43A25A2A200360202128B03000608152080020000511E
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:15:18
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=104 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,2TK,BWAK,BEAK,AWAK,2EAK,K45
+23 38 06 C7 37 68 00 D0 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 00 02 
+02 12 8B 03 00 04 08 09 20 39 10    :.............. 9. D1 14                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:15:18 233806C7376800D000EA28A2A15A4378A2A43AA6A2A200000202128B0300040809203910D114
+Wayside MCP: 77215670250202 (Marsh)
+
+
+2015/09/12 12:15:29
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=23 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BEAK,AWAK,2EAK
+23 38 06 C7 37 68 00 2E 00 EA 27 21 A1 55 67 77 21 56    #8..7h....'!.Ugw!V 7A 25 A2 A2 00 F0 02 
+02 12 8B 03 00 04 08 05 00 19 00    z%................ 6E 93                                     
+               n.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:15:29 233806C73768002E00EA2721A155677721567A25A2A200F00202128B03000408050019006E93
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:15:30
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=23 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1RWK,2EGK,AWAK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 2E A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 26 A2 A2 00 2E 02 
+02 12 8B 03 00 06 08 01 01 40 01    :&..............@. 01 10 FF EA                               
+               ....
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:15:30 23280656A268002EA6EA28A2A15A4378A2A43A26A2A2002E0202128B03000608010140010110FFEA
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:15:35
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=90 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK
+23 38 06 C7 37 68 00 B4 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 DC 02 
+02 12 8B 03 00 04 08 01 20 00 00    :.............. .. 7C FE                                     
+               |.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:15:35 233806C7376800B400EA28A2A15A4378A2A43A11A2A200DC0202128B03000408012000007CFE
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:15:45
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=1 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 02 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 FA 02 
+02 12 8B 03 00 04 08 05 06 3C 00    :1..............<. 57 AA                                     
+               W.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:15:45 233806C73768000200EA28A2A15A4378A2A43A31A2A200FA0202128B0300040805063C0057AA
+Wayside MCP: 78020430160202 (Swanston)
+
+
+2015/09/12 12:16:01
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=125 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK
+23 38 06 C7 37 68 00 FA 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 16 A2 A2 00 50 02 
+02 12 8B 03 00 04 08 05 04 20 00    :....P.......... . 5E 02                                     
+               ^.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:16:01 233806C7376800FA00EA28A2A15A4378A2A43A16A2A200500202128B03000408050420005E02
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:16:06
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=120 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,AEAK,BEAK
+23 28 06 56 A2 68 00 F0 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 38 02 
+02 12 8B 03 00 06 08 15 20 80 02    :%...8......... .. 00 00 1E 53                               
+               ...S
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:16:06 23280656A26800F000EA28A2A15A4378A2A43A25A2A200380202128B030006081520800200001E53
+Wayside MCP: 77215670250202 (Marsh)
+
+
+2015/09/12 12:16:09
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=24 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BEAK,AWAK
+23 38 06 C7 37 68 00 30 00 EA 27 21 A1 55 67 77 21 56    #8..7h.0..'!.Ugw!V 7A 25 A2 A2 00 F2 02 
+02 12 8B 03 00 04 08 05 00 18 00    z%................ 78 9D                                     
+               x.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:16:09 233806C73768003000EA2721A155677721567A25A2A200F20202128B0300040805001800789D
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:16:26
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=106 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,BWAK,BEAK,AWAK,2EAK,K45
+23 38 06 C7 37 68 00 D4 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 04 02 
+02 12 8B 03 00 04 08 09 00 39 10    :...............9. A9 FD                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:16:26 233806C7376800D400EA28A2A15A4378A2A43AA6A2A200040202128B0300040809003910A9FD
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:16:30
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=24 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1RWK,2EGK,AWAK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 30 A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h.0..(..ZCx.. 3A 26 A2 A2 00 30 02 
+02 12 8B 03 00 06 08 01 01 40 01    :&...0..........@. 01 10 54 05                               
+               ..T.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:16:30 23280656A2680030A6EA28A2A15A4378A2A43A26A2A200300202128B030006080101400101105405
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:16:36
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=91 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK
+23 38 06 C7 37 68 00 B6 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 DE 02 
+02 12 8B 03 00 04 08 01 20 00 00    :.............. .. 55 0F                                     
+               U.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:16:36 233806C7376800B600EA28A2A15A4378A2A43A11A2A200DE0202128B0300040801200000550F
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:16:46
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=2 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 04 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 FC 02 
+02 12 8B 03 00 04 08 05 06 3C 00    :1..............<. 3D B1                                     
+               =.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:16:46 233806C73768000400EA28A2A15A4378A2A43A31A2A200FC0202128B0300040805063C003DB1
+Wayside MCP: 78020430160202 (Swanston)
+
+
+2015/09/12 12:17:04
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=126 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK
+23 38 06 C7 37 68 00 FC 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 16 A2 A2 00 52 02 
+02 12 8B 03 00 04 08 05 04 20 00    :....R.......... . 80 0F                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:17:04 233806C7376800FC00EA28A2A15A4378A2A43A16A2A200520202128B0300040805042000800F
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:17:06
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=121 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,AEAK,BEAK
+23 28 06 56 A2 68 00 F2 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 3A 02 
+02 12 8B 03 00 06 08 15 20 80 02    :%...:......... .. 00 00 33 41                               
+               ..3A
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:17:06 23280656A26800F200EA28A2A15A4378A2A43A25A2A2003A0202128B030006081520800200003341
+Wayside MCP: 77215670250202 (Marsh)
+
+
+2015/09/12 12:17:10
+SP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=25 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2721015567
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,BEAK,AWAK
+23 38 06 C7 37 68 00 32 00 EA 27 21 A1 55 67 77 21 56    #8..7h.2..'!.Ugw!V 7A 25 A2 A2 00 F4 02 
+02 12 8B 03 00 04 08 05 00 18 00    z%................ E5 7A                                     
+               .z
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:17:10 233806C73768003200EA2721A155677721567A25A2A200F40202128B0300040805001800E57A
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:18:33
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=22 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1EAK,2EGK,1WGK,BWAK,AEAK,K45
+23 38 06 C7 37 68 00 2C 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.,..(..ZCx.. 3A A2 A2 A2 00 DE 02 
+02 12 8B 03 00 04 08 05 46 24 10    :..............F$. A9 13                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:33 233806C73768002C00EA28A2A15A4378A2A43AA2A2A200DE0202128B0300040805462410A913
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:18:33
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=33 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,2TK,BWAK,BEAK,AWAK,AEAK,2WAK,2EAK,K45
+23 38 06 C7 37 68 00 42 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.B..(..ZCx.. 3A A2 A2 A2 00 F4 02 
+02 12 8B 03 00 04 08 05 A0 3F 10    :...............?. 41 B1                                     
+               A.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:33 233806C73768004200EA28A2A15A4378A2A43AA2A2A200F40202128B0300040805A03F1041B1
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:18:34
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=3 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,1EAK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 06 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 FE 02 
+02 12 8B 03 00 04 08 05 46 3C 00    :1.............F<. 62 46                                     
+               bF
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:34 233806C73768000600EA28A2A15A4378A2A43A31A2A200FE0202128B0300040805463C006246
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:18:35
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=108 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,BWAK,BEAK,AWAK,K45
+23 38 06 C7 37 68 00 D8 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 08 02 
+02 12 8B 03 00 04 08 09 00 38 10    :...............8. A5 D2                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:35 233806C7376800D800EA28A2A15A4378A2A43AA6A2A200080202128B0300040809003810A5D2
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:18:37
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=22 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1EAK,2EGK,1WGK,BWAK,AEAK,K45
+23 38 06 C7 37 68 00 2C 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.,..(..ZCx.. 3A A2 A2 A2 00 DE 02 
+02 12 8B 03 00 04 08 05 46 24 10    :..............F$. A9 13                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:37 233806C73768002C00EA28A2A15A4378A2A43AA2A2A200DE0202128B0300040805462410A913
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:18:38
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=33 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,2TK,BWAK,BEAK,AWAK,AEAK,2WAK,2EAK,K45
+23 38 06 C7 37 68 00 42 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.B..(..ZCx.. 3A A2 A2 A2 00 F4 02 
+02 12 8B 03 00 04 08 05 A0 3F 10    :...............?. 41 B1                                     
+               A.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:38 233806C73768004200EA28A2A15A4378A2A43AA2A2A200F40202128B0300040805A03F1041B1
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:18:39
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=4 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,1EAK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 08 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 00 02 
+02 12 8B 03 00 04 08 05 46 3C 00    :1.............F<. 1C CB                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:39 233806C73768000800EA28A2A15A4378A2A43A31A2A200000202128B0300040805463C001CCB
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:18:39
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=108 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,BWAK,BEAK,AWAK,K45
+23 38 06 C7 37 68 00 D8 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 08 02 
+02 12 8B 03 00 04 08 09 00 38 10    :...............8. A5 D2                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:39 233806C7376800D800EA28A2A15A4378A2A43AA6A2A200080202128B0300040809003810A5D2
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:18:40
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=26 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1RWK,2EGK,AWAK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 34 A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h.4..(..ZCx.. 3A 26 A2 A2 00 34 02 
+02 12 8B 03 00 06 08 01 01 40 01    :&...4..........@. 01 10 0E 21                               
+               ...!
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:40 23280656A2680034A6EA28A2A15A4378A2A43A26A2A200340202128B030006080101400101100E21
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:18:42
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=93 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK
+23 38 06 C7 37 68 00 BA 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 E2 02 
+02 12 8B 03 00 04 08 01 20 00 00    :.............. .. F1 D6                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:42 233806C7376800BA00EA28A2A15A4378A2A43A11A2A200E20202128B0300040801200000F1D6
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:18:52
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=5 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,1EAK,2EGK,1WGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 0A 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 02 02 
+02 12 8B 03 00 04 08 05 46 3C 00    :1.............F<. 35 3A                                     
+               5:
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:52 233806C73768000A00EA28A2A15A4378A2A43A31A2A200020202128B0300040805463C00353A
+Genisys/SCS-128 MCP: 8802959280019 (Gold Run 2)
+
+
+2015/09/12 12:18:59
+UP Datagram (1) Inbound to Ground Network (129)
+Frame=6 GFI=0 Group=0 SSeq=0 Rseq=0 Beacon=0 Vital=0 UsrData=2
+To Dispatch: 2802959280000
+Number=0.0.129 SCS-128_Indication
+Mnemonics=2WAK,2EGK,BWAK
+93 81 02 44 01 5B                                        ...D.[
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:18:59 7338303239353932383093810244015B
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:19:09
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=6 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,1EAK,1TK,2EGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 0C 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 04 02 
+02 12 8B 03 00 04 08 05 54 3C 00    :1.............T<. 72 11                                     
+               r.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:19:09 233806C73768000C00EA28A2A15A4378A2A43A31A2A200040202128B0300040805543C007211
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:19:15
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=109 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,BWAK,BEAK,AWAK,K45
+23 38 06 C7 37 68 00 DA 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 0A 02 
+02 12 8B 03 00 04 08 09 00 38 10    :...............8. 8C 23                                     
+               .#
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:19:15 233806C7376800DA00EA28A2A15A4378A2A43AA6A2A2000A0202128B03000408090038108C23
+Wayside MCP: 78020430160202 (Swanston)
+
+
+2015/09/12 12:19:17
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=0 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK
+23 38 06 C7 37 68 00 00 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 16 A2 A2 00 56 02 
+02 12 8B 03 00 04 08 05 04 20 00    :....V.......... . 9C F0                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:19:17 233806C73768000000EA28A2A15A4378A2A43A16A2A200560202128B03000408050420009CF0
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:19:25
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=7 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,1TK,2EGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 0E 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 06 02 
+02 12 8B 03 00 04 08 05 14 3C 00    :1..............<. 2D E6                                     
+               -.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:19:25 233806C73768000E00EA28A2A15A4378A2A43A31A2A200060202128B0300040805143C002DE6
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:19:26
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=8 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,1WAK,1TK,2EGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 10 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 08 02 
+02 12 8B 03 00 04 08 05 94 3C 00    :1..............<. D3 C6                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:19:26 233806C73768001000EA28A2A15A4378A2A43A31A2A200080202128B0300040805943C00D3C6
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:19:34
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=9 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,1WAK,2EGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 12 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 0A 02 
+02 12 8B 03 00 04 08 05 84 3C 00    :1..............<. 6F B2                                     
+               o.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:19:34 233806C73768001200EA28A2A15A4378A2A43A31A2A2000A0202128B0300040805843C006FB2
+Wayside MCP: 78020430260202 (CSRM)
+
+
+2015/09/12 12:19:36
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=27 Rseq=83 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1RWK,2EGK,AWAK,BWAK,2RWK,SW_CURRK
+23 28 06 56 A2 68 00 36 A6 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h.6..(..ZCx.. 3A 26 A2 A2 00 36 02 
+02 12 8B 03 00 06 08 01 01 40 01    :&...6..........@. 01 10 23 33                               
+               ..#3
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:19:36 23280656A2680036A6EA28A2A15A4378A2A43A26A2A200360202128B030006080101400101102333
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:19:41
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=94 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK
+23 38 06 C7 37 68 00 BC 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 E4 02 
+02 12 8B 03 00 04 08 01 20 00 00    :.............. .. 9B CD                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:19:41 233806C7376800BC00EA28A2A15A4378A2A43A11A2A200E40202128B03000408012000009BCD
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:20:11
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=124 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,AEAK,BEAK
+23 28 06 56 A2 68 00 F8 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 40 02 
+02 12 8B 03 00 06 08 15 20 80 02    :%...@......... .. 00 00 25 6F                               
+               ..%o
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:20:11 23280656A26800F800EA28A2A15A4378A2A43A25A2A200400202128B03000608152080020000256F
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:20:16
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=110 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,BWAK,BEAK,AWAK,K45
+23 38 06 C7 37 68 00 DC 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 0C 02 
+02 12 8B 03 00 04 08 09 00 38 10    :...............8. E6 38                                     
+               .8
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:20:16 233806C7376800DC00EA28A2A15A4378A2A43AA6A2A2000C0202128B0300040809003810E638
+Wayside MCP: 78020430160202 (Swanston)
+
+
+2015/09/12 12:20:20
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=1 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK
+23 38 06 C7 37 68 00 02 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 16 A2 A2 00 58 02 
+02 12 8B 03 00 04 08 05 04 20 00    :....X.......... . 69 3A                                     
+               i:
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:20:20 233806C73768000200EA28A2A15A4378A2A43A16A2A200580202128B0300040805042000693A
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:21:34
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=25 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,1EAK,1TK,2EGK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 32 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.2..(..ZCx.. 3A A2 A2 A2 00 E4 02 
+02 12 8B 03 00 04 08 05 D4 28 10    :...............(. 1E 53                                     
+               .S
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:34 233806C73768003200EA28A2A15A4378A2A43AA2A2A200E40202128B0300040805D428101E53
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:21:34
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=33 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,2TK,BWAK,BEAK,AWAK,AEAK,2WAK,2EAK,K45
+23 38 06 C7 37 68 00 42 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.B..(..ZCx.. 3A A2 A2 A2 00 F4 02 
+02 12 8B 03 00 04 08 05 A0 3F 10    :...............?. 41 B1                                     
+               A.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:34 233806C73768004200EA28A2A15A4378A2A43AA2A2A200F40202128B0300040805A03F1041B1
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:21:36
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=11 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 16 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 0E 02 
+02 12 8B 03 00 04 08 05 04 3C 00    :1..............<. C0 54                                     
+               .T
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:36 233806C73768001600EA28A2A15A4378A2A43A31A2A2000E0202128B0300040805043C00C054
+Genisys/SCS-128 MCP: 8802959280019 (Gold Run 2)
+
+
+2015/09/12 12:21:37
+UP Datagram (1) Inbound to Ground Network (129)
+Frame=6 GFI=0 Group=0 SSeq=0 Rseq=0 Beacon=0 Vital=0 UsrData=2
+To Dispatch: 2802959280000
+Number=0.0.129 SCS-128_Indication
+Mnemonics=2WAK,2EGK,BWAK
+93 81 02 44 01 5B                                        ...D.[
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:37 7338303239353932383093810244015B
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:21:39
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=24 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,1WAK,1EAK,1TK,2EGK,BWAK,AWAK,AEAK,K45
+23 38 06 C7 37 68 00 30 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.0..(..ZCx.. 3A A2 A2 A2 00 E2 02 
+02 12 8B 03 00 04 08 05 D4 2C 10    :...............,. E3 D3                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:39 233806C73768003000EA28A2A15A4378A2A43AA2A2A200E20202128B0300040805D42C10E3D3
+Wayside MCP: 78020430020202 (Colfax)
+
+
+2015/09/12 12:21:39
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=34 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,NWK,2TK,1WGK,BWAK,BEAK,AWAK,AEAK,2WAK,2EAK,K45
+23 38 06 C7 37 68 00 44 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h.D..(..ZCx.. 3A A2 A2 A2 00 F6 02 
+02 12 8B 03 00 04 08 05 22 3F 10    :.............."?. CB 05                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:39 233806C73768004400EA28A2A15A4378A2A43AA2A2A200F60202128B0300040805223F10CB05
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:21:40
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=10 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,1WAK,2EGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 14 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 0C 02 
+02 12 8B 03 00 04 08 05 84 3C 00    :1..............<. 05 A9                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:40 233806C73768001400EA28A2A15A4378A2A43A31A2A2000C0202128B0300040805843C0005A9
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:21:40
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=11 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 16 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 0E 02 
+02 12 8B 03 00 04 08 05 04 3C 00    :1..............<. C0 54                                     
+               .T
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:40 233806C73768001600EA28A2A15A4378A2A43A31A2A2000E0202128B0300040805043C00C054
+Genisys/SCS-128 MCP: 8802959280019 (Gold Run 2)
+
+
+2015/09/12 12:21:41
+UP Datagram (1) Inbound to Ground Network (129)
+Frame=6 GFI=0 Group=0 SSeq=0 Rseq=0 Beacon=0 Vital=0 UsrData=2
+To Dispatch: 2802959280000
+Number=0.0.129 SCS-128_Indication
+Mnemonics=2WAK,2EGK,BWAK
+93 81 02 44 01 5B                                        ...D.[
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:41 7338303239353932383093810244015B
+Wayside MCP: 78020430110202 (W Roseville)
+
+
+2015/09/12 12:21:44
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=96 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=1NWK,BEAK
+23 38 06 C7 37 68 00 C0 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 11 A2 A2 00 E8 02 
+02 12 8B 03 00 04 08 01 20 00 00    :.............. .. E0 78                                     
+               .x
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:44 233806C7376800C000EA28A2A15A4378A2A43A11A2A200E80202128B0300040801200000E078
+Wayside MCP: 78020430310202 (Webster)
+
+
+2015/09/12 12:21:45
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=12 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2NWK,1NWK,2EGK,BWAK,BEAK,AWAK,AEAK
+23 38 06 C7 37 68 00 18 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A 31 A2 A2 00 10 02 
+02 12 8B 03 00 04 08 05 04 3C 00    :1..............<. ED C9                                     
+               ..
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:45 233806C73768001800EA28A2A15A4378A2A43A31A2A200100202128B0300040805043C00EDC9
+Wayside MCP: 78020430060202 (Rocklin)
+
+
+2015/09/12 12:21:54
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=38 GFI=6 Group=8 SSeq=112 Rseq=0 Beacon=0 Vital=0 UsrData=8
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=2RWK,1NWK,BWAK,AWAK,K45
+23 38 06 C7 37 68 00 E0 00 EA 28 A2 A1 5A 43 78 A2 A4    #8..7h....(..ZCx.. 3A A6 A2 A2 00 10 02 
+02 12 8B 03 00 04 08 09 00 28 10    :...............(. 53 F5                                     
+               S.
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:21:54 233806C7376800E000EA28A2A15A4378A2A43AA6A2A200100202128B030004080900281053F5
+Wayside MCP: 78020430190202 (Brighton)
+
+
+2015/09/12 12:22:05
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=69 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,1NWK,2NWK,2NGK,2OK,BSAK
+23 28 06 56 A2 68 00 8A 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 19 A2 A2 00 14 02 
+02 12 8B 03 00 06 08 15 20 20 04    :..............  . 00 00 E2 71                               
+               ...q
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:22:05 23280656A268008A00EA28A2A15A4378A2A43A19A2A200140202128B03000608152020040000E271
+Wayside MCP: 78020430250202 (West Sacramento)
+
+
+2015/09/12 12:22:18
+UP Datagram (1) Inbound to Ground Network (35)
+Frame=40 GFI=6 Group=8 SSeq=126 Rseq=0 Beacon=0 Vital=0 UsrData=10
+To Dispatch: 2802015043
+Number=9.2.11 CODELINE_INDICATION_MSG
+Mnemonics=3NWK,2NWK,1NWK,2EGK,AEAK,BEAK
+23 28 06 56 A2 68 00 FC 00 EA 28 A2 A1 5A 43 78 A2 A4    #(.V.h....(..ZCx.. 3A 25 A2 A2 00 44 02 
+02 12 8B 03 00 06 08 15 20 80 02    :%...D......... .. 00 00 7F 4B                               
+               ..K
+
+
+__________________________________________________________________________________________________
+Replay=2015/09/12 12:22:18 23280656A26800FC00EA28A2A15A4378A2A43A25A2A200440202128B030006081520800200007F4B
