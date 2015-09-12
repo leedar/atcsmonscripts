@@ -6,12 +6,18 @@ require 'pp'
 # mcpFile = "UP_SacramentoArea-20130713.mcp"
 # mcpFile = "UP_Martinez+Niles-20150905.mcp"
 mcpFile = ARGV.first
+$verbose  = (ARGV[1] == "-v")
 
 p "parsing #{mcpFile}"
 
 #globals
 $mcps = []
 
+def log(str)
+	if ($verbose) 
+		puts str
+	end
+end
 
 # class MCP
 # 	def initialize(address = "none", name = "none") 
@@ -30,12 +36,14 @@ $mcps = []
 # end  
 
 def dms_to_degrees(d, m, s)
-  degrees = d
-  fractional = m / 60 + s / 3600
+
+  # log ("degrees: #{d}, minutes: #{m}, seconds: #{s}")
+  degrees = d.to_f
+  fractional = m.to_f/ 60 + s.to_f / 3600
   if d > 0
-    degrees + fractional
+    degrees + fractional.to_f
   else
-    degrees - fractional
+    degrees - fractional.to_f
   end
 end
 
@@ -44,37 +52,46 @@ current = {:address => "", :name => "", :milepost => "", :controls => "", :indic
 IO.foreach(mcpFile) {|x| 
 	if (x["MCPAddress"])
 		current[:address] = x.split("=")[1].strip
-		puts "MCPAddress is #{current[:address]}"
+		log ("MCPAddress is #{current[:address]}")
 	elsif (x["MCPName"])
 		current[:name] = x.split("=")[1].strip
-		puts "MCPName is #{current[:name]}"
+		log ("MCPName is #{current[:name]}")
 	elsif (x["MCPMilepost"])
 		current[:milepost] = x.split("=")[1].strip
-		puts "MCPMilepost is #{current[:milepost]}"
+		log ("MCPMilepost is #{current[:milepost]}")
 	elsif (x["MCPControlMnemonics"])
 		current[:controls] = x.split("=")[1].strip
-		puts "MCPControlMnemonics is #{current[:controls]}"
+		log ("MCPControlMnemonics is #{current[:controls]}")
 	elsif (x["MCPIndicationMnemonics"])
 		current[:indication] = x.split("=")[1].strip
-		puts "MCPIndicationMnemonics is #{current[:indication]}"
+		log ("MCPIndicationMnemonics is #{current[:indication]}")
 	elsif (x["MCPSubdivision"])
 		current[:subdivision] = x.split("=")[1].strip
-		puts "MCPSubdivision is #{current[:subdivision]}"
+		log ("MCPSubdivision is #{current[:subdivision]}")
 	elsif (x["MCPStateCounty"])
 		current[:statecounty] = x.split("=")[1].strip
-		puts "MCPStateCounty is #{current[:statecounty]}"
+		log ("MCPStateCounty is #{current[:statecounty]}")
 	elsif (x["MCPLongitude"])
 		lg = x.split("=")[1].strip
-		degrees=dms_to_degrees("#{lg[0]}#{lg[1]}#{lg[2]}".to_i, "#{lg[3]}#{lg[4]}".to_i, "#{lg[5]}#{lg[6]}".to_i)
+		if (lg[7] == "W")
+			degrees=dms_to_degrees("-#{lg[0]}#{lg[1]}#{lg[2]}".to_i, "#{lg[3]}#{lg[4]}".to_i, "#{lg[5]}#{lg[6]}".to_i)
+		else 
+			degrees=dms_to_degrees("#{lg[0]}#{lg[1]}#{lg[2]}".to_i, "#{lg[3]}#{lg[4]}".to_i, "#{lg[5]}#{lg[6]}".to_i)
+		end
 		current[:longitude] = degrees
 		# current[:longitude] = x.split("=")[1].strip
-		puts "MCPLongitude is #{current[:longitude]} str = #{lg}"
+		log ("MCPLongitude is #{current[:longitude]} str = #{lg}")
 	elsif (x["MCPLatitude"])
 		lat = x.split("=")[1].strip
 		# current[:latitude] = x.split("=")[1].strip
-		degrees=dms_to_degrees("#{lat[0]}#{lat[1]}".to_i, "#{lat[2]}#{lat[3]}".to_i, "#{lat[4]}#{lat[5]}".to_i)
+		if (lat[6] == "N")
+			degrees=dms_to_degrees("#{lat[0]}#{lat[1]}".to_i, "#{lat[2]}#{lat[3]}".to_i, "#{lat[4]}#{lat[5]}".to_i)
+		else
+			degrees=dms_to_degrees("-#{lat[0]}#{lat[1]}".to_i, "#{lat[2]}#{lat[3]}".to_i, "#{lat[4]}#{lat[5]}".to_i)
+		end
+
 		current[:latitude] = degrees
-		puts "MCPLatitude is #{current[:latitude]}   str = #{lat}"
+		log ("MCPLatitude is #{current[:latitude]}   str = #{lat}")
 		$mcps.push(current)
 		current = {:address => "", :name => "", :controls => "", :indication => "", :subdivision => "", :statecounty => "", :longitude => 0, :latitude => 0}
 	end 
